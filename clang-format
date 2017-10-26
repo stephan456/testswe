@@ -7,7 +7,7 @@
 # Use tabs whenever we need to fill whitespace that spans at least from one tab
 # stop to the next one.
 UseTab: Always
-TabWidth: 8
+TabWidth: 32 
 IndentWidth: 8
 ContinuationIndentWidth: 8
 ColumnLimit: 80
